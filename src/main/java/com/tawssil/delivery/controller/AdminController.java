@@ -12,7 +12,7 @@ import java.util.List;
 public class AdminController {
 
 
-    public String sayHello(){ return "hello abdos test"  ; }
+    public String sayHello(){ return "hello abdos testt"  ; }
 
 
     @Autowired
