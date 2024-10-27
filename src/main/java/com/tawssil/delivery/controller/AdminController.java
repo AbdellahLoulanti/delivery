@@ -11,6 +11,10 @@ import java.util.List;
 @RequestMapping("/admin")
 public class AdminController {
 
+
+    public String sayHello(){ return "hello abdos"  ; }
+
+
     @Autowired
     private AdminService adminService;
 
